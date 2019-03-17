@@ -30,7 +30,7 @@ public class GetResultTask extends TimerTask {
 			//
 			IReceiver receiver;
 			if (messages.size() > 0){
-				Registry registry = LocateRegistry.getRegistry(10991);
+				Registry registry = LocateRegistry.getRegistry("server",10991);
 				receiver = (IReceiver) registry.lookup("Receiver");
 			}
 			else {

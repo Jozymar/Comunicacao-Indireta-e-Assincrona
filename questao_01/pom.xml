@@ -16,8 +16,6 @@
     </properties>
 
     <build>
-        <finalName>questao_01</finalName>
-
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -30,7 +28,7 @@
 
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
-                <version>3.0.0</version>
+                <version>3.1.1</version>
                 <configuration>
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
@@ -56,11 +54,11 @@
     </build>
 
     <modules>
-        <module>share</module>
-        <module>serverapp</module>
+        <module>clientapp</module>
         <module>sender</module>
         <module>receiver</module>
-        <module>clientapp</module>
+        <module>serverapp</module>
+        <module>share</module>
     </modules>
 
 </project>

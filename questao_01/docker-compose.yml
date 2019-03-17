@@ -1,0 +1,17 @@
+version: '3'
+services:
+  serverapp:
+    build: ./serverapp
+    container_name: server
+    networks:
+      - my_net
+  clientapp:
+    build: ./clientapp
+    container_name: client
+    networks:
+      - my_net
+    depends_on:
+      - serverapp
+networks:
+  my_net:
+    driver: bridge
