@@ -1,0 +1,17 @@
+syntax = "proto3";
+option java_multiple_files = true;
+package br.edu.ifpb.grpc;
+import "Message.proto";
+
+service ReceiverService {
+    rpc delivery(Message) returns (MessageResult);
+}
+
+service SenderService {
+    rpc sendMessage(Message) returns (MessageResult);
+}
+
+service ServerAppService {
+    rpc print(Message) returns (MessageResult);
+}
+

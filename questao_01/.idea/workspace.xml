@@ -3,33 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6f4d0cd5-ff61-483b-ac98-1ad4bda18fcf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clientapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientapp/src/main/java/br/edu/ifpb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/clientapp/src/main/java/br/edu/ifpb/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/receiver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/receiver/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/Receiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/ResponseMessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/ResponseMessageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sender/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/GetResultTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/GetResultTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/SendTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/SendTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/SenderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/SenderImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/TaskManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/TaskManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/MessageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/MessageResultRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/MessageResultRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/SendedMessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/SendedMessageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serverapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/serverapp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serverapp/src/main/java/br/edu/ifpb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/serverapp/src/main/java/br/edu/ifpb/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serverapp/src/main/java/br/edu/ifpb/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/serverapp/src/main/java/br/edu/ifpb/ServerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/share/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/IReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/IReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/ISender.java" beforeDir="false" afterPath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/ISender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/IServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/IServerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/MessageResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/MessageResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/share/src/main/java/br/edu/ifpb/Subject.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,23 +23,25 @@
     <session id="1933541979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="94" />
+          <entry key="java" value="739" />
           <entry key="md" value="350" />
           <entry key="xml" value="190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="94" />
+          <entry key="JAVA" value="739" />
           <entry key="Markdown" value="350" />
           <entry key="XML" value="190" />
         </counts>
@@ -72,7 +49,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Dockerfile" value="2" />
-          <entry key="java" value="52" />
+          <entry key="java" value="54" />
           <entry key="md" value="2" />
           <entry key="properties" value="1" />
           <entry key="sh" value="2" />
@@ -81,7 +58,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="52" />
+          <entry key="JAVA" value="54" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="1" />
@@ -91,20 +68,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -131,7 +95,6 @@
         <option value="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/MessageResultRepository.java" />
         <option value="$PROJECT_DIR$/sender/src/main/java/br/edu/ifpb/repositories/MessageRepository.java" />
         <option value="$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/Main.java" />
-        <option value="$PROJECT_DIR$/clientapp/src/main/java/br/edu/ifpb/Main.java" />
         <option value="$PROJECT_DIR$/sender/src/main/java/edu/ifpb/SendTask.java" />
         <option value="$PROJECT_DIR$/sender/src/main/java/edu/ifpb/GetResultTask.java" />
         <option value="$PROJECT_DIR$/share/pom.xml" />
@@ -141,6 +104,7 @@
         <option value="$PROJECT_DIR$/clientapp/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/clientapp/src/main/java/br/edu/ifpb/Main.java" />
       </list>
     </option>
   </component>
@@ -163,7 +127,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,17 +134,53 @@
               <item name="questao_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="questao_01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="questao_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="questao_01" type="462c0819:PsiDirectoryNode" />
+              <item name="clientapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="questao_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="questao_01" type="462c0819:PsiDirectoryNode" />
+              <item name="clientapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="questao_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="questao_01" type="462c0819:PsiDirectoryNode" />
+              <item name="clientapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="questao_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="questao_01" type="462c0819:PsiDirectoryNode" />
+              <item name="clientapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="questao_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="questao_01" type="462c0819:PsiDirectoryNode" />
+              <item name="clientapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ifpb" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552854687398" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../outros/sd" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552865298091" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -220,18 +219,18 @@
       <workItem from="1552611983051" duration="4140000" />
       <workItem from="1552693292046" duration="598000" />
       <workItem from="1552758964519" duration="594000" />
-      <workItem from="1552836126728" duration="16269000" />
+      <workItem from="1552836126728" duration="18572000" />
+      <workItem from="1553122139092" duration="412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21601000" />
+    <option name="totallyTimeSpent" value="24316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2560606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25984848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,23 +337,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clientapp/src/main/java/br/edu/ifpb/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/receiver/src/main/java/br/edu/ifpb/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -369,9 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -379,10 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#241#268#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -390,9 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,9 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,9 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,6 +461,16 @@
             <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientapp/src/main/java/br/edu/ifpb/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
